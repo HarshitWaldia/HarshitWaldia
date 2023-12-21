@@ -1,18 +1,24 @@
 <img src="https://camo.githubusercontent.com/d841e65dd3a0c651bb4c51d9055f88730e214eb13526805a0e4b7e5a026648de/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a5450793470665f503151554e565a717a6e676a6c69412e676966" alt="Banner" width="2500" height="300">
 
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Harshit Waldia</h1>
+<p align="center">
+ <a href="https://github.com/harshitwaldia/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;AI+ML+Enthusiast;MLOps+Explorer;Deep+Learning+Adventurer;&center=true&width=600&height=80">
+</a>
+  <h2 align="center">Computer Science Engineering Major Specialization In Machine Learning And Artificial Intelligence</h2>
+</p>
 
-<h1 align="center">Hi 👋, I'm Harshit Waldia</h1>
-<h3 align="center">Computer Science Engineering Major Specialization In Machine Learning And Artificial Intelligence</h3>
 <img align="right" alt="Coding" width="400" src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%2C576&ssl=1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitwaldia&label=Profile%20views&color=0e75b6&style=flat" alt="harshitwaldia" /> </p>
 
-- 👀 I’m interested in MLOps
-- 🔭 I’m currently working on **Machine Learning And Deep Learnig Projects**
-- 🌱 I’m currently learning **Data Science And DSA**
+- 👀 Interested in **MLOps**
+- 🔭 Currently working on **Machine Learning And Deep Learnig Projects**
+- 🌱 Currently learning **DeepLearning And Digital Image Processing**
+- ⚡ Fun fact: I go by **ViperX** in-game and **Triton** when coding!
 - 📫 How to reach me **harshitwaldia112@gmail.com**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitwaldia" alt="harshitwaldia" /></a> </p>
+<p align="center"> <a href="https://github.com/harshitwaldia/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitwaldia" alt="harshitwaldia" /></a> </p>
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> 💻 Tech Stack & Tools:
 <br>
@@ -30,8 +36,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<br>
-<img src="https://media4.giphy.com/media/QM3HY1v4Eym58qiY1i/giphy.gif?cid=790b7611e82baed6147e3d312c0cc603a3b114d27fae9bc0&rid=giphy.gif&ct=s" width="40"> Streak Stats
 <br>
 
 <h2 align="left">Connect with me : </h2>
@@ -106,17 +110,27 @@
 
 <br>
 
-## MOST USED : 
+## MOST USED<img src="https://media4.giphy.com/media/QM3HY1v4Eym58qiY1i/giphy.gif?cid=790b7611e82baed6147e3d312c0cc603a3b114d27fae9bc0&rid=giphy.gif&ct=s" width="40"> :
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitwaldia&show_icons=true&locale=en&layout=compact" alt="harshitwaldia" /></p>
 
-## GITHUB STATS
+## GITHUB STATS<img src="https://media4.giphy.com/media/QM3HY1v4Eym58qiY1i/giphy.gif?cid=790b7611e82baed6147e3d312c0cc603a3b114d27fae9bc0&rid=giphy.gif&ct=s" width="40">:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitwaldia&show_icons=true&locale=en" alt="harshitwaldia" /></p>
 
-## GITHUB STREAK
+## GITHUB STREAK<img src="https://media4.giphy.com/media/QM3HY1v4Eym58qiY1i/giphy.gif?cid=790b7611e82baed6147e3d312c0cc603a3b114d27fae9bc0&rid=giphy.gif&ct=s" width="40">  :
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitwaldia&" alt="harshitwaldia" /></p>
 
-### LeetCode Profile  [![LeetCode](https://img.shields.io/badge/LeetCode-Solved%20Problems%20-blue.svg)](https://leetcode.com/01_triton/)
+### LeetCode Profile  <img src="https://media4.giphy.com/media/QM3HY1v4Eym58qiY1i/giphy.gif?cid=790b7611e82baed6147e3d312c0cc603a3b114d27fae9bc0&rid=giphy.gif&ct=s" width="40"> :
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solved%20Problems%20-blue.svg)](https://leetcode.com/01_triton/)
 
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=01_triton)
+<div>
+  <img src="https://leetcode-stats-six.vercel.app/api?username=01_triton" align="left">
+  <div align="Right">
+    
+  <a href="">[![Leetcode-Stats][leetcode-stats-url]][leetcode-url]</a>
+
+</div>
+</div>
 
 
+[leetcode-url]: https://leetcode.com/01_Triton/
+[leetcode-stats-url]: https://leetcard.jacoblin.cool/01_Triton?theme=dark&font=Roboto&ext=heatmap
