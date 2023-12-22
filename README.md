@@ -11,7 +11,7 @@
   <h2 align="center"> <img src="https://media.tenor.com/8OPCLlcaQoMAAAAj/cartoon-xolo.gif" width="35"> Computer Science Maverick 🤖</h2>
 <p align="center" >
   <a href="https://github.com/harshitwaldia/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=+Major:+Computer+Science+Engineering;🌐+Specialization:+Machine+Learning+And+AI;Space+Exploration+Enthusiast;&center=true&width=600&height=80">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=+Space+Exploration+Enthusiast;+💡+Major:+Computer+Science+Engineering;🌐+Specialization:+Machine+Learning+And+AI;;&center=true&width=600&height=80">
 </a>
 </p>
 
