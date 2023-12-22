@@ -22,19 +22,21 @@
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> 💻 Tech Stack & Tools:
 <br>
-![OpenCV](https://img.shields.io/badge/OpenCV-%23121011.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[![OpenCV](https://img.shields.io/badge/OpenCV-%2320232a.svg?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+[![Flask](https://img.shields.io/badge/Flask-%2320232a.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Java](https://img.shields.io/badge/Java-%2320232a.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![Python](https://img.shields.io/badge/Python-%2320232a.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![AWS](https://img.shields.io/badge/AWS-%2320232a.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-%2320232a.svg?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![C++](https://img.shields.io/badge/C++-%2320232a.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![C](https://img.shields.io/badge/C-%2320232a.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Django](https://img.shields.io/badge/Django-%2320232a.svg?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-%2320232a.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![CSS](https://img.shields.io/badge/CSS-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
+[![HTML](https://img.shields.io/badge/HTML-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
+[![VSCode](https://img.shields.io/badge/VSCode-%2320232a.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-%2320232a.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+
 
 <br>
 
