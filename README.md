@@ -122,15 +122,13 @@
 ### LeetCode Profile  <img src="https://media4.giphy.com/media/QM3HY1v4Eym58qiY1i/giphy.gif?cid=790b7611e82baed6147e3d312c0cc603a3b114d27fae9bc0&rid=giphy.gif&ct=s" width="40"> :
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solved%20Problems%20-blue.svg)](https://leetcode.com/01_triton/)
 
-<div>
-  <img src="https://leetcode-stats-six.vercel.app/api?username=01_triton" align="left">
-  <div align="left">
-    
+ ![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=01_triton)
+
+<div align="left">
+      
   <a href="">[![Leetcode-Stats][leetcode-stats-url]][leetcode-url]</a>
 
 </div>
-</div>
-
 
 [leetcode-url]: https://leetcode.com/01_Triton/
 [leetcode-stats-url]: https://leetcard.jacoblin.cool/01_Triton?theme=dark&font=Roboto&ext=heatmap
