@@ -8,14 +8,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=AI+ML+Enthusiast;MLOps+Explorer;Deep+Learning+Adventurer;Quantum+Entanglement+Evangelist;&center=true&width=600&height=80">
 </a>
 </p>
-  <h2 align="center"> <img src="https://media.tenor.com/8OPCLlcaQoMAAAAj/cartoon-xolo.gif" width="35"> Computer Science Maverick 🤖</h2>
+<h2 align="center"> <img src="https://media.tenor.com/8OPCLlcaQoMAAAAj/cartoon-xolo.gif" width="35"> Computer Science Maverick 🤖</h2>
 <p align="center" >
   <a href="https://github.com/harshitwaldia/readme-typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?lines=💡+Major:+Computer+Science+Engineering;🌐+Specialization:+Machine+Learning+And+AI;Space+Exploration+Enthusiast;&center=true&width=600&height=80">
 </a>
-</p>
-
-</h2>
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%2C576&ssl=1">
@@ -201,3 +198,13 @@
 
 [leetcode-url]: https://leetcode.com/01_Triton/
 [leetcode-stats-url]: https://leetcard.jacoblin.cool/01_Triton?theme=dark&font=Roboto&ext=heatmap
+
+<h2 align="center"><img src="https://i.giphy.com/SHjOSDkKZ18qOHA5B5.webp" width="100"> Leetcode Badges :<img src="https://media.tenor.com/ajJEDvIHuCQAAAAi/fire-flames.gif&ct=s" width="40"></h2>
+<p align="center">
+<img align="center" src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width=>
+<img align="center" src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" width=>
+<img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-11.gif" width=>
+<img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-09.gif" width=>
+<img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-08.gif" width=>
+<img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" width=>
+</p>
