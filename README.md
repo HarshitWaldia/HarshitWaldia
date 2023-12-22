@@ -201,10 +201,10 @@
 
 <h2 align="center"><img src="https://i.giphy.com/SHjOSDkKZ18qOHA5B5.webp" width="100"> Leetcode Badges :<img src="https://media.tenor.com/ajJEDvIHuCQAAAAi/fire-flames.gif&ct=s" width="40"></h2>
 <p align="center">
-<img align="center" src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width=>
-<img align="center" src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" width=>
-<img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-11.gif" width=>
-<img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-09.gif" width=>
-<img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-08.gif" width=>
-<img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" width=>
+<img align="center" src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="250">
+<img align="center" src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" width="250"><br>
+<img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-11.gif" width="150">
+<img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-09.gif" width="150">
+<img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-08.gif" width="150">
+<img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" width="150">
 </p>
