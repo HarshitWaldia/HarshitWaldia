@@ -124,7 +124,7 @@
 
 <div>
   <img src="https://leetcode-stats-six.vercel.app/api?username=01_triton" align="left">
-  <div align="Right">
+  <div align="left">
     
   <a href="">[![Leetcode-Stats][leetcode-stats-url]][leetcode-url]</a>
 
