@@ -3,13 +3,13 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Harshit Waldia</h1>
 <p align="center">
  <a href="https://github.com/harshitwaldia/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;AI+ML+Enthusiast;MLOps+Explorer;Deep+Learning+Adventurer;&center=true&width=600&height=80">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+ML+Enthusiast;MLOps+Explorer;Deep+Learning+Adventurer;Quantum+Entanglement+Evangelist;&center=true&width=600&height=80">
 </a>
 </p>
   <h2 align="center"> <img src="https://media.tenor.com/8OPCLlcaQoMAAAAj/cartoon-xolo.gif" width="35"> Computer Science Maverick 🤖</h2>
 <p align="center" >
   <a href="https://github.com/harshitwaldia/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=💡+Major:+Computer+Science+Engineering;🌐+Specialization:+Machine+Learning+&+Artificial+Intelligence;&center=true&width=600&height=100">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=💡+Major:+Computer+Science+Engineering;🌐+Specialization:+Machine+Learning+And+AI;Space+Exploration+Enthusiast;&center=true&width=600&height=80">
 </a>
 </p>
 
@@ -20,7 +20,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitwaldia&label=Profile%20views&color=0e75b6&style=flat" alt="harshitwaldia" /> </p>
 
-- 👀 Interested in **MLOps**
+- 👀 Interested in **Space And Cosmology** 
 - 🔭 Currently working on **Machine Learning And Deep Learnig Projects**
 - 🌱 Currently learning **DeepLearning And Digital Image Processing**
 - ⚡ Fun fact: I go by **ViperX** in-game and **Triton** when coding!
@@ -28,32 +28,38 @@
 
 <p align="center"> <a href="https://github.com/harshitwaldia/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitwaldia" alt="harshitwaldia" /></a> </p>
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> 💻 Tech Stack & Tools:
-<br>
-[![OpenCV](https://img.shields.io/badge/OpenCV-%232d7e90.svg?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
-[![Flask](https://img.shields.io/badge/Flask-%23ffffff.svg?style=for-the-badge&logo=flask&logoColor=black)](https://flask.palletsprojects.com/)
-[![Java](https://img.shields.io/badge/Java-%23b07219.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![AWS](https://img.shields.io/badge/AWS-%23232f3e.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![C++](https://img.shields.io/badge/C++-%2300599c.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![C](https://img.shields.io/badge/C-%2300599c.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Django](https://img.shields.io/badge/Django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-%23007396.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![CSS](https://img.shields.io/badge/CSS-%23275757.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
-[![HTML](https://img.shields.io/badge/HTML-%23e34c26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
-[![VSCode](https://img.shields.io/badge/VSCode-%23007acc.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-%23f37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
-
-
-
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> 💻 Tech Stack & Tools:
+</h2>
 
 <br>
 
-<h2 align="left"><img src="https://media.tenor.com/VUN-dhMVV9wAAAAj/social-media-jumping.gif" width="35"> Connect with me : </h2>
-<p align="left">
+<p align="center">
+  <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV-%232d7e90.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"></a>
+  <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-%23ffffff.svg?style=for-the-badge&logo=flask&logoColor=black" alt="Flask"></a>
+  <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-%23b07219.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-%23232f3e.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"></a>
+  <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"></a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.shields.io/badge/C++-%2300599c.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-%2300599c.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"></a>
+  <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-%23007396.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://img.shields.io/badge/CSS-%23275757.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></a>
+  <a href="https://www.w3.org/html/"><img src="https://img.shields.io/badge/HTML-%23e34c26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"></a>
+  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VSCode-%23007acc.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"></a>
+  <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-%23f37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"></a>
+</p>
+
+
+
+<h2 align="center"><img src="https://media.tenor.com/VUN-dhMVV9wAAAAj/social-media-jumping.gif" width="80"> Connect with me : </h2>
+<p align="center">
   <a href="https://linkedin.com/in/harshit-waldia" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
+  </a>
+   <a href="https://medium.com/@project.harshitwaldia" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" height="30" />
   </a>
   <a href="https://kaggle.com/harshitwaldia" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" height="30" />
@@ -61,16 +67,14 @@
   <a href="https://instagram.com/harshit_waldia" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="30" />
   </a>
-  <a href="https://medium.com/@project.harshitwaldia" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" height="30" />
-  </a>
+
 </p>
 
 
 <br>
 
-<h2 align="left">Coding Platforms : </h2>
-<p align="left">
+<h2 align="center"><img src="https://i.pinimg.com/originals/73/e1/54/73e15422011e763ea9b303a7738e71a3.gif" width="50">Coding Platforms : </h2>
+<p align="center">
   <a href="https://www.codechef.com/users/waldia" target="_blank">
     <img align="center" src="https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" height="30" />
   </a>
@@ -94,8 +98,8 @@
 <br>
 
 <!-- Languages -->
-<h2 align="left" class="badge-header">Languages : </h2>
-<p align="left">
+<h2 align="center" class="badge-header"><img src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" width="80">Languages : </h2>
+<p align="center">
   <a href="https://www.cprogramming.com/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" height="30" />
   </a>
@@ -111,16 +115,16 @@
 </p>
 <br>
 <!-- Database -->
-<h2 align="left" class="badge-header">Database : </h2>
-<p align="left">
+<h2 align="center" class="badge-header"><img src="https://media.tenor.com/c1_NM0wDAvAAAAAj/data-datos.gif" width="60">Database : </h2>
+<p align="center">
   <a href="https://www.mysql.com/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="30" />
   </a>
 </p>
 <br>
 <!-- Frontend Development Tools -->
-<h2 align="left" class="badge-header">Frontend Development Tools : </h2>
-<p align="left">
+<h2 align="center" class="badge-header"><img src="https://camo.githubusercontent.com/93a438565e31dd396c21194436b0f7920889e1d552741112e1513dd2fe1a993a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38312f31372f38622f38313137386234376138353938663063383163343739396632636464343035372e676966" width="80">Frontend Tools : </h2>
+<p align="center">
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="30" />
   </a>
@@ -130,8 +134,8 @@
 </p>
 <br>
 <!-- Frameworks -->
-<h2 align="left" class="badge-header">Frameworks : </h2>
-<p align="left">
+<h2 align="center" class="badge-header"><img src="https://media.tenor.com/hlKEXPvlX48AAAAj/loading-loader.gif" width="80">Frameworks : </h2>
+<p align="center">
   <a href="https://www.djangoproject.com/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" height="30" />
   </a>
@@ -141,18 +145,18 @@
 </p>
 <br>
 <!-- Devops -->
-<h2 align="left" class="badge-header">Devops : </h2>
-<p align="left">
+<h2 align="center" class="badge-header"><img src="https://media.tenor.com/gltER5OeK9wAAAAi/qws.gif" width="50">Devops : </h2>
+<p align="center">
   <a href="https://aws.amazon.com" target="_blank">
     <img align="center" src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" height="30" />
   </a>
 </p>
 <br>
 <!-- AI/ML -->
-<h2 align="left" class="badge-header">AI/ML : </h2>
-<p align="left">
+<h2 align="center" class="badge-header"><img src="https://i.giphy.com/VZV471U1wUShjcsMlE.webp" width="60">AI/ML : </h2>
+<p align="center">
   <a href="https://opencv.org/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/OpenCV-%23FD5E00.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" height="30" />
+    <img align="center" src="https://img.shields.io/badge/OpenCV-%232d7e90.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" height="30" />
   </a>
   <a href="https://pytorch.org/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" height="30" />
