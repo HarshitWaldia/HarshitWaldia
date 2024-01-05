@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/d841e65dd3a0c651bb4c51d9055f88730e214eb13526805a0e4b7e5a026648de/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a5450793470665f503151554e565a717a6e676a6c69412e676966)](https://github.com/harshitwaldia)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/harshitwaldia)
 <!-- https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif --> <!--hi 1-->
 <!--https://i.giphy.com/5HyXGsoFzXWPKFx07j.webp--><!-- face hi-->
 <!--https://i.giphy.com/w1OBpBd7kJqHrJnJ13.webp--><!-- hi 2-->
@@ -97,7 +97,7 @@
 <br>
 
 <!-- Languages -->
-<h2 align="center" class="badge-header"><img src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" width="80">Languages : </h2>
+<h2 align="center" class="badge-header"><img src="https://media.tenor.com/cH_yvjYMGU0AAAAi/hackerman-programming.gif" width="80">Languages : </h2>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" height="30" />
@@ -122,7 +122,7 @@
 </p>
 <br>
 <!-- Frontend Development Tools -->
-<h2 align="center" class="badge-header"><img src="https://camo.githubusercontent.com/93a438565e31dd396c21194436b0f7920889e1d552741112e1513dd2fe1a993a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38312f31372f38622f38313137386234376138353938663063383163343739396632636464343035372e676966" width="80">Frontend Tools : </h2>
+<h2 align="center" class="badge-header"><img src="https://media.tenor.com/WQfHotAE4LIAAAAi/ryzim-ryzim-records.gif" width="80">Frontend Tools : </h2>
 <p align="center">
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="30" />
