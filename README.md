@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/harshitwaldia)
 <!-- https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif --> <!--hi 1-->
 <!--https://i.giphy.com/5HyXGsoFzXWPKFx07j.webp--><!-- face hi-->
-<!--https://i.giphy.com/w1OBpBd7kJqHrJnJ13.webp--><!-- hi 2-->
+<!--https://i.giphy.com/w1OBpBd7kJqHrJnJ13.webp--><!-- hi 2--> 
 <h1 align="center">Hi <img src="https://i.giphy.com/5HyXGsoFzXWPKFx07j.webp" width="55">, I'm Harshit Waldia</h1>
 <p align="center">
  <a href="https://github.com/harshitwaldia/readme-typing-svg">
