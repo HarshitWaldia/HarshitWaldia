@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/harshitwaldia)
+[![logo](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/harshitwaldia)
 <!-- https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif --> <!--hi 1--> 
 <!--https://i.giphy.com/5HyXGsoFzXWPKFx07j.webp--><!-- face hi-->
 <!--https://i.giphy.com/w1OBpBd7kJqHrJnJ13.webp--><!-- hi 2--> 
@@ -182,8 +182,8 @@
 ## GITHUB STATS<img src="https://media.tenor.com/ajJEDvIHuCQAAAAi/fire-flames.gif&ct=s" width="40">:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitwaldia&show_icons=true&locale=en" alt="harshitwaldia" /></p>
 
-## GITHUB STREAK<img src="https://media.tenor.com/ajJEDvIHuCQAAAAi/fire-flames.gif&ct=s" width="40">  :
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitwaldia&" alt="harshitwaldia" /></p>
+<!--## GITHUB STREAK<img src="https://media.tenor.com/ajJEDvIHuCQAAAAi/fire-flames.gif&ct=s" width="40">  :
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitwaldia&" alt="harshitwaldia" /></p>-->
 
 ### LeetCode Profile  <img src="https://media4.giphy.com/media/QM3HY1v4Eym58qiY1i/giphy.gif?cid=790b7611e82baed6147e3d312c0cc603a3b114d27fae9bc0&rid=giphy.gif&ct=s" width="40"> :
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solved%20Problems%20-blue.svg)](https://leetcode.com/01_triton/)
@@ -199,8 +199,8 @@
 [leetcode-url]: https://leetcode.com/01_Triton/
 [leetcode-stats-url]: https://leetcard.jacoblin.cool/01_Triton?theme=dark&font=Roboto&ext=heatmap
 
-<h2 align="center"><img src="https://i.giphy.com/SHjOSDkKZ18qOHA5B5.webp" width="100"> Leetcode Badges <img src="https://media.tenor.com/ajJEDvIHuCQAAAAi/fire-flames.gif&ct=s" width="50"></h2>
-<p align="center">
+<!--<h2 align="center"><img src="https://i.giphy.com/SHjOSDkKZ18qOHA5B5.webp" width="100"> Leetcode Badges <img src="https://media.tenor.com/ajJEDvIHuCQAAAAi/fire-flames.gif&ct=s" width="50"></h2>-->
+<!-- <p align="center">
   <a href="https://leetcode.com/01_Triton/" target="_blank">
     <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="250">
   </a>
@@ -228,5 +228,5 @@
  <a href="https://leetcode.com/01_Triton/" target="_blank">
     <img align="center" src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-02.gif" width="150">
   </a>
-</p>
+</p> -->
 
