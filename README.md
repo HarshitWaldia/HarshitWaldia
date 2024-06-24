@@ -132,8 +132,9 @@
   </a>
 </p>
 <br>
+
 <!-- Frameworks -->
-<h2 align="center" class="badge-header"><img src="https://media.tenor.com/hlKEXPvlX48AAAAj/loading-loader.gif" width="80">Frameworks : </h2>
+<!--<h2 align="center" class="badge-header"><img src="https://media.tenor.com/hlKEXPvlX48AAAAj/loading-loader.gif" width="80">Frameworks : </h2>
 <p align="center">
   <a href="https://www.djangoproject.com/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" height="30" />
@@ -141,7 +142,7 @@
   <a href="https://flask.palletsprojects.com/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="30" />
   </a>
-</p>
+</p> -->
 <br>
 <!-- Devops -->
 <h2 align="center" class="badge-header"><img src="https://media.tenor.com/gltER5OeK9wAAAAi/qws.gif" width="50">Devops : </h2>
