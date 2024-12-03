@@ -230,3 +230,11 @@
   </a>
 </p> -->
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/harshitwaldia/harshitwaldia/output/snake.svg" alt="Snake animation" />
+
+###
+
