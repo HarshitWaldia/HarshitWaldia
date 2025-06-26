@@ -184,6 +184,14 @@
 ## GITHUB STATS<img src="https://media.tenor.com/ajJEDvIHuCQAAAAi/fire-flames.gif&ct=s" width="40">:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitwaldia&show_icons=true&locale=en" alt="harshitwaldia" /></p>
 
+## ⚡ GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitwaldia&theme=react-dark&area=true" />
+</p>
+
+---
+
 <!--## GITHUB STREAK<img src="https://media.tenor.com/ajJEDvIHuCQAAAAi/fire-flames.gif&ct=s" width="40">  :
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitwaldia&" alt="harshitwaldia" /></p>-->
 
