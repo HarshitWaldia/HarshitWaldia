@@ -208,8 +208,8 @@
 [leetcode-url]: https://leetcode.com/01_Triton/
 [leetcode-stats-url]: https://leetcard.jacoblin.cool/01_Triton?theme=dark&font=Roboto&ext=heatmap
 
-<!--<h2 align="center"><img src="https://i.giphy.com/SHjOSDkKZ18qOHA5B5.webp" width="100"> Leetcode Badges <img src="https://media.tenor.com/ajJEDvIHuCQAAAAi/fire-flames.gif&ct=s" width="50"></h2>-->
-<!-- <p align="center">
+<h2 align="center"><img src="https://i.giphy.com/SHjOSDkKZ18qOHA5B5.webp" width="100"> Leetcode Badges <img src="https://media.tenor.com/ajJEDvIHuCQAAAAi/fire-flames.gif&ct=s" width="50"></h2>
+<p align="center">
   <a href="https://leetcode.com/01_Triton/" target="_blank">
     <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="250">
   </a>
@@ -237,7 +237,7 @@
  <a href="https://leetcode.com/01_Triton/" target="_blank">
     <img align="center" src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-02.gif" width="150">
   </a>
-</p> -->
+</p> 
 
 ###
 
