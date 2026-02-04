@@ -177,12 +177,11 @@
 </p>
 
 <br>
+<!-- ## MOST USED<img src="https://media.tenor.com/ajJEDvIHuCQAAAAi/fire-flames.gif&ct=s" width="40"> :
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitwaldia&show_icons=true&locale=en&layout=compact" alt="harshitwaldia" /></p> -->
 
-## MOST USED<img src="https://media.tenor.com/ajJEDvIHuCQAAAAi/fire-flames.gif&ct=s" width="40"> :
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitwaldia&show_icons=true&locale=en&layout=compact" alt="harshitwaldia" /></p>
-
-## GITHUB STATS<img src="https://media.tenor.com/ajJEDvIHuCQAAAAi/fire-flames.gif&ct=s" width="40">:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitwaldia&show_icons=true&locale=en" alt="harshitwaldia" /></p>
+<!-- ## GITHUB STATS<img src="https://media.tenor.com/ajJEDvIHuCQAAAAi/fire-flames.gif&ct=s" width="40">:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshitwaldia&show_icons=true&locale=en" alt="harshitwaldia" /></p> -->
 
 ## ⚡ GitHub Activity<img src="https://media.tenor.com/ajJEDvIHuCQAAAAi/fire-flames.gif&ct=s" width="40"> :
 
@@ -203,11 +202,11 @@
       
   <a href="">[![Leetcode-Stats][leetcode-stats-url]][leetcode-url]</a>
 
-</div>
+</div> 
 
 [leetcode-url]: https://leetcode.com/01_Triton/
 [leetcode-stats-url]: https://leetcard.jacoblin.cool/01_Triton?theme=dark&font=Roboto&ext=heatmap
-
+<!--
 <h2 align="center"><img src="https://i.giphy.com/SHjOSDkKZ18qOHA5B5.webp" width="100"> Leetcode Badges <img src="https://media.tenor.com/ajJEDvIHuCQAAAAi/fire-flames.gif&ct=s" width="50"></h2>
 <p align="center">
   <a href="https://leetcode.com/01_Triton/" target="_blank">
@@ -237,7 +236,7 @@
  <a href="https://leetcode.com/01_Triton/" target="_blank">
     <img align="center" src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-02.gif" width="150">
   </a>
-</p> 
+</p> -->
 
 ###
 
