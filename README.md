@@ -207,6 +207,8 @@
 [leetcode-url]: https://leetcode.com/01_Triton/
 [leetcode-stats-url]: https://leetcard.jacoblin.cool/01_Triton?theme=dark&font=Roboto&ext=heatmap
 
+<!--
+
 <h2 align="center"><img src="https://i.giphy.com/SHjOSDkKZ18qOHA5B5.webp" width="100"> Leetcode Badges <img src="https://media.tenor.com/ajJEDvIHuCQAAAAi/fire-flames.gif&ct=s" width="50"></h2>
 <p align="center">
   <a href="https://leetcode.com/01_Triton/" target="_blank">
